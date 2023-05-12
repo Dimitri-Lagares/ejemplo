@@ -1,0 +1,1 @@
+se intento cumplir con los requerimentos aun asi el material base no fue encontrado solo fue posible encontrar la propiedad name no me fue posible encontrar las otras propiedades si nos dan otra oportunidad con otra api que se encuentre con las propiedades requeridas se los agradesco mucho
